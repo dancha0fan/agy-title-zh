@@ -2,6 +2,10 @@
 
 自动将 **Antigravity 2.0** 原生生成的英文会话标题翻译为中文并写回的轻量级独立插件。
 
+[![CI](https://github.com/dancha0fan/agy-title-zh/actions/workflows/ci.yml/badge.svg)](https://github.com/dancha0fan/agy-title-zh/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/dancha0fan/agy-title-zh?label=Release&color=2563eb)](https://github.com/dancha0fan/agy-title-zh/releases)
+[![License](https://img.shields.io/badge/License-MIT-16a34a)](LICENSE)
+
 ## 特性
 
 - **零配置开箱即用**：默认使用免 Key 的 Google 翻译接口，不消耗 Antigravity 模型额度，也不产生多余对话轮次。
