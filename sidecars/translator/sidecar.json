@@ -1,0 +1,17 @@
+{
+  "command": "node",
+  "args": [
+    "main.mjs"
+  ],
+  "env": {
+    "AGY_TITLE_ZH_VERSION": "0.1.0",
+    "NODE_USE_ENV_PROXY": "1"
+  },
+  "restart_policy": "always",
+  "display_name": "Agy Title ZH",
+  "description": "Background auto-translator for Antigravity conversation titles.",
+  "has_web_ui": false,
+  "agent_permissions": {
+    "allows_user_interactions": false
+  }
+}
