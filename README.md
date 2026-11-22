@@ -17,9 +17,15 @@
 
 ## 安装与卸载
 
-### 安装
+### 方式一：复制提示词交给 Agent 自动安装（推荐）
 
-克隆仓库或下载源码后，在项目目录执行：
+直接把下面这段话发给 Antigravity 或其他可执行本地命令的 Agent：
+
+> 请帮我安装 Agy Title ZH：https://github.com/dancha0fan/agy-title-zh 。先阅读 README，下载最新 Release 压缩包或克隆仓库后，运行项目自带的安装脚本（优先使用已有 Node.js 或 Antigravity 自带的 agy-node）。保留其他插件、账户设置和聊天记录，不要强制关闭当前客户端，安装后核对版本并告诉我结果。
+
+### 方式二：下载 Release 压缩包或源码手动安装
+
+从 [Releases](https://github.com/dancha0fan/agy-title-zh/releases) 下载最新 `agy-title-zh-v*.zip` 解压（或克隆本仓库），在解压后的目录运行：
 
 Windows (PowerShell)：
 
